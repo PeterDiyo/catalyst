@@ -1,0 +1,9 @@
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"Hello from Catalyst!","service":"catalyst-api"}
+{"level":"info","message":"::1 - - [02/Dec/2025:23:10:36 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"catalyst-api"}
